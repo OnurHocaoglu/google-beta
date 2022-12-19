@@ -1,0 +1,90 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+header img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+.section-1{
+    background-color: #eeeeee;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.first-section{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    background-color: #eeeeee    ;
+}
+.first-section input[type=text]{
+    width: 400px;
+    margin-left: -45%;
+}
+.section-2{
+    background-color: aqua;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.second1-section{
+    float: left;
+    background-color: #7ee5da;
+    width: 39%;
+    margin-right: 3px;
+    height: 80px;
+    
+}
+.second1-section ul li,.second2-section ul li{
+    list-style: none;
+}
+.second1-section ul li{
+    text-align: center;
+    line-height: normal;
+}
+.second2-section ul li {
+    font-size: 13px;
+    text-align: center;
+    line-height: 100%;
+}
+.second3-section label{
+    font-size: 13px;
+}
+
+
+.second2-section{
+    float: left;
+    background-color: #70ccc2;
+    width: 21.6%;
+    margin-right: 3px;
+    height: 80px;
+
+}
+.second3-section{
+    float: left;
+    background-color: #62b3aa;
+    width: 39.1%;
+    height: 80px;
+}
+
+.second3-section form{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.second3-section input[type=text]{
+    width: 177px;
+    height: 15px;
+    margin-left: -30px;
+}
+.end{
+    margin-top: 100px;
+    text-align: center;
+}
+.end label{
+    font-size: 13px;
+}
